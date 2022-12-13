@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: ADA data story
+description: Success or Failure? Predict the success of your future movie!
 show_downloads: True
 navigation:
   - title: Home
