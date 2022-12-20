@@ -7,3 +7,10 @@
 2. How have those features impacted the box office over time?
 3. How well can we correlate production and success?
 4. Using these insights, can we predict future production and/or the future box office of arbitrary productions?
+
+
+# <center> The Dataset </center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We built our dataset from [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/) and completed it using **Cinemagoer**, a python package for retrieving and managing the data of the **IMDb movie database**. This package is used to gain more complete information about the characters in each movie in order to maximise the accuracy rate when finding the main character, as the IMDb database is more complete. We matched the IMDb movies to the Wikipedia ones using the titles of the movies and release date.
+
+
+
