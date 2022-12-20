@@ -15,4 +15,6 @@
 # <center> The Datasets </center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We built our dataset from [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/), which contains diverse informations about the movies such as box office revenue, genre, release date, runtime, character descriptions, actors, summary and language. We completed it using **Cinemagoer**, a python package for retrieving and managing the data of the **IMDb movie database**. This package is used to gain more complete information about the characters in each movie in order to maximise the accuracy rate when finding the main character, as the IMDb database is more complete. We matched the IMDb movies to the Wikipedia ones using the titles of the movies and release date.
 
-![alt text for screen readers](trial.png "Text to show on mouseover")
+![alt text for screen readers](trial.png "trial1")
+![alt text for screen readers](trial2 "trial2")
+![alt text for screen readers](zebra.jpg "jpgtrial3")
