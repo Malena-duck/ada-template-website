@@ -18,10 +18,8 @@ Website https://malena-duck.github.io/success_movie/
 
 
 
-<p float="left">
+<p float="center">
   <img src="./assets/img/trial.png" width="100" />
   <img src="./assets/img/trial.png" width="100" /> 
   <img src="./assets/img/trial.png" width="100" />
 </p>
-
-![alt-text-1](trial.png "title-1") ![alt-text-2](trial2.png =x250 "title-2")
