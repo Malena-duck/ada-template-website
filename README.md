@@ -20,4 +20,6 @@
 </p>
 
 
-<center> ![alt text for screen readers](zebra.jpg "trial1") </center>
+<p align="center">
+  <img src="./assets/img/trial.png" width="100" height="100" />
+</p>
