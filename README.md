@@ -83,8 +83,7 @@ So nowadays movies have little variation in their runtime, but can we be sure it
   <img src="./assets/img/Movie_genres_evolution.png" width = "750" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can see that not only drama has been the most produced genre (has seen in Distribution of Movie Genres above), but that it has dominated the production every year. That is until BLABLA and BLABLA finally managed to defeat the champion.  
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The popularity of producing black and whites died off as the years went by which is not surprising. We can also see that drama has been the most produced genre each year consistently. At least that was the case until recently! Since 2012 there has been a rise in popularity in other genres such as fantasy, horror, adventure, with thriller and adventure dominating the production. The change in trend from consistently having drama as number one to a range of different genres becoming popular and vastly varying from year to year is quite interesting. 
 
 
 
