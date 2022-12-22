@@ -61,12 +61,9 @@ We know that at the beginning of the 20th century, in the early days of Cinema, 
   <img src="./assets/img/Runtime_evolution.png" />
 </p>
 
-At th
+Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (grey area) also plateaued with the median. 
 
-
-
-
- they were called one reelers. But with time technology progressed allowing films to be as long as needed. Here we can see that since the 1960s the median duration of films has plateaued around 100 minutes.
+So nowadays movies have little variation in their runtime, but did they settle on the right choice?
 
 
 
