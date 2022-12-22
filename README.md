@@ -50,6 +50,18 @@ We can see that drama is the dominating genre in  this dataset. Is anyone really
 
 # <center> The Production of Movies throughout the Ages </center>
 
+Let's examine some features in films and how they have evolved.
+
+## <center> Runtimes </center>
+
+
+
+dmsda
+
+
+
+
+
 
 
 
