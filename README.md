@@ -18,6 +18,10 @@ Website https://malena-duck.github.io/success_movie/
 ## <center> The Evolution of the Production of Movies </center>
 
 <p align="center">
+  <img src="./assets/img/Movie_production_evolution.png" />
+</p>
+
+<p align="center">
   <img src="./assets/img/Movie_production_evolution.png" width="500" />
 </p>
 
