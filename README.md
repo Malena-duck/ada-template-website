@@ -34,7 +34,7 @@ The movies contained in this dataset are overwhelmingly from the United States, 
 
 **<center> So big Hollywood producers, make sure you pay extra close attention. </center>**
 <p align="center">
-  <img src="./assets/img/pay_attention.jpg" />
+  <img src="./assets/img/pay_attention.jpg" width = 250/>
 </p>
 
 
