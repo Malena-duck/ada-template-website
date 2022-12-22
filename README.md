@@ -36,6 +36,8 @@ The movies contained in this dataset are overwhelmingly from the United States, 
 <p align="center">
   <img src="./assets/img/pay_attention.jpg" width = 250/>
 </p>
+&nbsp;  
+&nbsp;  
 
 
 ## <center> Distribution of Movie Genres </center>
@@ -51,19 +53,19 @@ We can see above drama is the dominating genre in this dataset, followed by come
 
 # <center> The Production of Movies throughout the Ages </center>
 
-Let's examine some features in films and how they have evolved. 
+<center> Let's examine some features in films and how they have evolved. </center> 
 ## <center> Runtimes </center>
 
-We know that at the beginning of the 20th century, in the early days of Cinema, films were short in runtime due to technological limitations. However by the 1920s, technology had advanced enough to accomodate feature-length films. The sky became the limit when it came to runtimes. So what length did directors and producers gravitate towards?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We know that at the beginning of the 20th century, in the early days of Cinema, films were short in runtime due to technological limitations. However by the 1920s, technology had advanced enough to accomodate feature-length films. The sky became the limit when it came to runtimes. So what length did directors and producers gravitate towards?
 
 
 <p align="center">
   <img src="./assets/img/Runtime_evolution.png" />
 </p>
 
-Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (grey area) also plateaued with the median. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (grey area) also plateaued with the median. 
 
-So nowadays movies have little variation in their runtime, but did they settle on the right choice?
+So nowadays movies have little variation in their runtime, but can we be sure it is the right one?
 
 
 
