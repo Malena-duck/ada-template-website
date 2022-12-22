@@ -44,20 +44,29 @@ The movies contained in this dataset are overwhelmingly from the United States, 
   <img src="./assets/img/genres_in_dataset.png" />
 </p>
 
-We can see that drama is the dominating genre in  this dataset. Is anyone really surprised that drama enjoys being in the spotlight?
+**And Drama takes the spotlight!!! Shocker!**
+We can see above drama is the dominating genre in this dataset, followed by comedy and romance. Stay tuned to see if a Drama movie is actually the most profitable.
 
 
 
 # <center> The Production of Movies throughout the Ages </center>
 
-Let's examine some features in films and how they have evolved.
-
+Let's examine some features in films and how they have evolved. 
 ## <center> Runtimes </center>
 
+We know that at the beginning of the 20th century, in the early days of Cinema, films were short in runtime due to technological limitations. However by the 1920s, technology had advanced enough to accomodate feature-length films. The sky became the limit when it came to runtimes. So what length did directors and producers gravitate towards?
 
 
-dmsda
+<p align="center">
+  <img src="./assets/img/Runtime_evolution.png" />
+</p>
 
+At th
+
+
+
+
+ they were called one reelers. But with time technology progressed allowing films to be as long as needed. Here we can see that since the 1960s the median duration of films has plateaued around 100 minutes.
 
 
 
