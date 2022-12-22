@@ -21,6 +21,14 @@ Website https://malena-duck.github.io/success_movie/
   <img src="./assets/img/Movie_production_evolution.png" width="500" />
 </p>
 
+<p align="center">
+  <img src="./assets/img/Movie_production_evolution.png" width="1000" />
+</p>
+
+<p align="center">
+  <img src="./assets/img/Movie_production_evolution.png" width="250" />
+</p>
+
 ## <center> What Film Industry Are We Analyzing </center>
 
 ## <center> Distribution of Movie Genres </center>
