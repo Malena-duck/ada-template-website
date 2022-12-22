@@ -40,6 +40,7 @@ The movies contained in this dataset are overwhelmingly from the United States, 
   <img src="./assets/img/genres_in_dataset.png" />
 </p>
 
+We can see that drama is the dominating genre in  this dataset. Is anyone really surprised that drama does not like to share the spotlight?
 
 
 
