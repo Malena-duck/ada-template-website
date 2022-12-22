@@ -72,7 +72,15 @@ So nowadays movies have little variation in their runtime, but can we be sure it
 
 
 <p align="center">
-  <img src="./assets/img/Movie_genres_evolution.png" width = 500/ />
+  <img src="./assets/img/Movie_genres_evolution.png" width = "500" />
+</p>
+
+<p align="center">
+  <img src="./assets/img/Movie_genres_evolution.png" width = "250" />
+</p>
+
+<p align="center">
+  <img src="./assets/img/Movie_genres_evolution.png" width = "750" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We can see that not only drama has been the most produced genre (has seen in Distribution of Movie Genres above), but that it has dominated the production every year. That is until BLABLA and BLABLA finally managed to defeat the champion.  
