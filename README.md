@@ -27,6 +27,7 @@ Website https://malena-duck.github.io/success_movie/
   <img src="./assets/img/Countries_in_dataset.png" />
 </p>
 
+lalala
 ## <center> Distribution of Movie Genres </center>
 
 <p align="center">
