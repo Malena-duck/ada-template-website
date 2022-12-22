@@ -14,6 +14,7 @@ Website https://malena-duck.github.io/success_movie/
 # <center> The Data </center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We built our dataset from [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/), which contains diverse informations about the movies such as box office revenue, genre, release date, runtime, character descriptions, actors and synopsis. We completed this dataset using **Cinemagoer**, a python package for retrieving and managing the data of the **IMDb movie database**. This package was used to gain more complete information about the characters, the budget, box office, etc... We matched the IMDb movies to the Wikipedia ones using the titles of the movies and release date.
 
+So now let's have a look at what our dataset.
 
 ## <center> The Evolution of the Production of Movies </center>
 
@@ -21,13 +22,17 @@ Website https://malena-duck.github.io/success_movie/
   <img src="./assets/img/Movie_production_evolution.png" />
 </p>
 
+The dataset focuses on movies released before 2015. The increase in movie production in the last 30 years is also consistent with the global. With the boom in the number of movies made we have to wonder how the trends have changed throughout the years.
+
 ## <center> What Film Industry Are We Analyzing </center>
 
 <p align="center">
   <img src="./assets/img/Countries_in_dataset.png" />
 </p>
 
-lalala
+The movies contained in this dataset are overwhelmingly from the United States, followed by some from India and the U.K. Thus, the trends we find will reflect mainly the production of American movies. Big Hollywood producers, make sure you pay extra close attention.
+
+
 ## <center> Distribution of Movie Genres </center>
 
 <p align="center">
