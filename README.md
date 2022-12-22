@@ -32,7 +32,7 @@ The dataset focuses on movies released before 2015. The increase in movie produc
 
 The movies contained in this dataset are overwhelmingly from the United States, followed by some from India and the U.K. Thus, the trends we find will reflect mainly the production of American movies. 
 
-<center> **So big Hollywood producers, make sure you pay extra close attention.** </center>
+**<center> So big Hollywood producers, make sure you pay extra close attention. </center>**
 <p align="center">
   <img src="./assets/img/pay_attention.jpg" />
 </p>
