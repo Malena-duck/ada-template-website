@@ -210,7 +210,7 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 | Family film   | 0.15                     |         -0.07              |
 | Fantasy       | 0.16                    |        -0.07               |
 | Drama | -0.10                    |        0.33              |
-#### <center> Table 3: </center>
+#### <center> Table 3: Pearson correlation coefficient for movie genre </center>
 
 So here you have it movie producers, I hope you were paying attentions! Though drama has been the genre most produced it has a NEGATIVE correlation with the box office, though the ratings are positively correlated on the bright side. If you want to make money, drama might not be the way to go. Instead a good action film might do the trick with the box office, as it has the heighest correlation. Though you might get a fair share of negative reviews on IMDb. The increase in production of action and adventure films the last few years, that we mentioned before seems to concord with the results found in the table above.
 
