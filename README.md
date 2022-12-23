@@ -188,7 +188,7 @@ The following table shows the features that have a correlatio with Box Office su
 | Male m.c. age   | yes 0.07       | yes 0.07      |
 | Female m.c. age   | yes -0.04        | yes -0.08      |
 
-
+&nbsp;
 We looked for the top 5 genres with the strongest correlation (positive or negative) to box office as well as the coefficient of correlation for Drama since that is the most produced type by directors. Here they are in the following table:
 
 
@@ -203,10 +203,8 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 
 
 
-Runtime 
-Being male (positive vs negative for being female)
-The age (good if men are older, bad for women in the ratings)
-
+## <center> Regression </center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to try and guess future box office success for movies, we created a linear regression with the following features: budget, runtime, gender main character, age of main character, height of main character and the 20 most popular genres. Unfortunately the regression was not successful in its prediction.
 
 
 # <center> Conclusion </center>
