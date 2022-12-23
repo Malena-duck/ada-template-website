@@ -113,7 +113,7 @@ It seems that for women the main character's height preference has been between 
 </p>
 
 <img align = "right" src="./assets/img/rocket.jpg" width = "100"/>
-We can see that the budget of films has been steadily rising until recent years when it suddenly skyrocketed! This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year. In recent years, big budget blockbuster movies have become more popular, such as the Marvel movie franchise. This can explain the explosive increase in budget in such a short amount of time.
+We can see that the budget of films has been steadily rising until recent years when it suddenly skyrocketed!:rocket: This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year. In recent years, big budget blockbuster movies have become more popular, such as the Marvel movie franchise. This can explain the explosive increase in budget in such a short amount of time.
 
 
 
