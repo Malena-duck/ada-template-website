@@ -128,6 +128,10 @@ We can see that the budget of films has been steadily rising until recent years 
 We can see that the box office actually had a few peaks in the past, with a very prominent one before the 1920s. We can see a steady period where the budget was higher between the 1960s and 1980s before it decreased again and remain flat until present day. Interestingly enough though the budget has dramatically increase in the last few years, this does not seem to be the case for the box office.
 
 
+# <center> Correlating Production/Features and Success </center>
+Can the trends among certain features indicate how the median of the box office is gonna perform? For example, will a sudden increase in the production of Romantic movies indicate an increase in the box office? In order to perform a causality analysis in the time series we have, we will perform a Granger causality test. The Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another. In our case will a certain feature be useful in forecasting budget?
+
+
 
 
 
