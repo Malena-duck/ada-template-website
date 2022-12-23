@@ -32,7 +32,7 @@ The dataset focuses on movies released before 2015. The increase in movie produc
 
 <div class="flourish-embed flourish-map" data-src="visualisation/12249145"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### <center> Countries in dataset </center>
+#### <center> Figure 2: Countries in dataset </center>
 
 The movies contained in this dataset are overwhelmingly from the United States, followed by some from India and the U.K. Thus, the trends we find will reflect mainly the production of American movies. 
 
@@ -50,6 +50,8 @@ The movies contained in this dataset are overwhelmingly from the United States, 
   <img src="./assets/img/genres_in_dataset.png" />
 </p>
 
+#### <center> Figure 3: Distribution of Movie Genre </center>
+
 
 **And Drama takes the spotlight!!! Shocker!**
 We can see above drama is the dominating genre in this dataset, followed by comedy and romance. Stay tuned to see if a Drama movie is actually the most profitable.
@@ -58,7 +60,7 @@ We can see above drama is the dominating genre in this dataset, followed by come
 
 <div class="flourish-embed" data-src="visualisation/12254161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### <center> Character Archetypes </center>
+#### <center> Figure 5: Character Archetypes </center>
 
 
 
@@ -77,7 +79,7 @@ We can see above drama is the dominating genre in this dataset, followed by come
 <p align="center">
   <img src="./assets/img/Runtime_evolution.png" />
 </p>
-
+#### <center> Figure 6: Runtime Evolution </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (blue area) also plateaued with the median. 
 
