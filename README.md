@@ -129,7 +129,7 @@ We can see that the budget of films has been steadily rising until recent years 
 We can see that the box office actually had a few peaks in the past, with a very prominent one before the 1920s. We can see a steady period where the budget was higher between the 1960s and 1980s before it decreased again and remain flat until present day. Interestingly enough though the budget has dramatically increase in the last few years, this does not seem to be the case for the box office.
 
 
-# <center> Correlating Production/Features and Success </center>
+# <center> Correlating Production/Features and Success in the Last 30 Years </center>
 
 &nbsp;   
 
@@ -162,15 +162,36 @@ How about the main character time series?
 The changes in height and age of the main character for both men and women have a correlation with the changes in the box office, with a lag around 9 years. This means that how the main character varies throughout the years can help forecast box office.
 
 ## <center> Causality Analysis for Success </center>
-To see how strongly correlated production features are with success we will be using the Pearson correlation coefficient, which measures the linear correlation between two datasets.
+To see how strongly correlated production features are with success we will be using the Pearson correlation coefficient, which measures the linear correlation between two datasets. For this part we will also be looking at the correlation with IMDb ratings. We have all heard of the public indignations when movies were praised for the excellence while wildly underperforming in the box office. So let's have a look whether these features correlate. 
 
+
+The following table shows the features that have a correlatio with Box Office success and IMDb rating
+
+| Genre       | Correlation Coefficient |   Lag (years) |  
+| :---------: | :---------:             |      :---------:                  |
+| Adventure   | 20.94                      |         9              |
+| Indie       | 20.48                     |        3               |
+| Documentary | 20.23                    |        10               |
+| Thriller    | 19.62                     |      10                 |
+| Fantasy     | 16.98                     |     4                  |
+| Romantic drama | 16.36                  |    8                   |
+| Black-and-white | 12.20                   |   3                    |
+| Comedy      | 11.64                      | 3                      |
+| Romance     | 10.2                       |  1                     |
+
+
+
+The following features have a correlation with box office success and IMDb rating
+Runtime 
+Being male (positive vs negative for being female)
+The age (good if men are older, bad for women in the ratings)
 
 
 
 # <center> Conclusion </center>
 It seems that the success of a film cannot be easily determined through an algorithm. People are unpredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need is:
 
-Recipe style information?
+Recipe style information:
 
 
 
