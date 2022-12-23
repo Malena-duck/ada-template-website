@@ -1,5 +1,5 @@
 Website https://malena-duck.github.io/success_movie/
-# <center> Motivation lalal </center>
+# <center> Motivation </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can we produce a successful movie? _The script? The plot? The genre? Luck?_ And how has that changed over time? In this project we want to see how the movie characteristics have evolved over time. For instance, we will look at the main character, who are they? What is their gender? Age? Do those characteristics influence the success of the film? We will also look at other factors such as genre and runtime. Furthermore, the goal of this project is to discover correlations between the characteristics and success. For instance, what does the main character need to look like when it’s a romantic film vs an adventure film in order to perform well in the box-office? 
 &nbsp;  
@@ -14,7 +14,7 @@ Website https://malena-duck.github.io/success_movie/
 # <center> The Data </center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We built our dataset from [CMU movies summary dataset](http://www.cs.cmu.edu/~ark/personas/), which contains diverse informations about the movies such as box office revenue, genre, release date, runtime, character descriptions, actors and synopsis. We completed this dataset using **Cinemagoer**, a python package for retrieving and managing the data of the **IMDb movie database**. This package was used to gain more complete information about the characters, the budget, box office, etc... We matched the IMDb movies to the Wikipedia ones using the titles of the movies and release date.
 
-So now let's have a look at what our dataset.
+So now let's have a look at our dataset.
 
 ## <center> The Evolution of the Production of Movies </center>
 
@@ -22,7 +22,7 @@ So now let's have a look at what our dataset.
   <img src="./assets/img/Movie_production_evolution.png" />
 </p>
 
-The dataset focuses on movies released before 2015. The increase in movie production in the last 30 years is also consistent with the global. With the boom in the number of movies made we have to wonder how the trends have changed throughout the years.
+The dataset focuses on movies released before 2015. The increase in movie production in the last 30 years is also consistent with the global trend. With the boom in the number of movies made we have to wonder how the trends have changed throughout the years.
 
 ## <center> What Film Industry Are We Analyzing </center>
 
@@ -65,8 +65,8 @@ We can see above drama is the dominating genre in this dataset, followed by come
   <img src="./assets/img/Runtime_evolution.png" />
 </p>
 
-(new graph needed ED)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (grey area) also plateaued with the median. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (blue area) also plateaued with the median. 
 
 So nowadays movies have little variation in their runtime, but can we be sure it is the right one?
 
@@ -129,11 +129,14 @@ We can see that the box office actually had a few peaks in the past, with a very
 
 
 # <center> Correlating Production/Features and Success </center>
-Can the trends among certain features indicate how the median of the box office is gonna perform? For example, will a sudden increase in the production of Romantic movies indicate an increase in the box office? In order to perform a causality analysis in the time series we have, we will perform a Granger causality test. The Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another. In our case will a certain feature be useful in forecasting budget?
 
-&nbsp;  
-&nbsp;  
+&nbsp;   
 
+## <center> Causality Analysis for the Time Series </center>
+
+Can the trends among certain features indicate how the median of the box office is going to perform? For example, will a sudden increase in the production of Romantic movies indicate an increase in the box office? In order to perform a causality analysis in the time series we have, we will perform a Granger causality test. The Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another. In our case will a certain feature be useful in forecasting boc office?
+
+&nbsp; 
 Let's take a look at the different genres that passed the p-test (0.05) (indicator of how confident we are in the results):
 
 | Genre       | Correlation Coefficient |   Lag (years) |  
@@ -151,7 +154,11 @@ Let's take a look at the different genres that passed the p-test (0.05) (indicat
 
 
 
-We can see that the production of adventure, indie and documentary film have the most causality on the box office. Adventure has a 9 year lag on its effect on the box office though it has the most influence. Romance movies
+We can see that the production of adventure, indie and documentary film have the most causality on the box office. Adventure has a 9 year lag on its effect on the box office though it has the most influence. Romance movies have the shortest lag, with it being only one year, but they do not correlate as strongly as the other genres.
+&nbsp; 
+
+How about the main character time series?
+The changes in height and age of the main character for both men and women have a correlation with the changes in the box office, with a lag around 9 years. This means that how the main character varies throughout the years can help forecast box office.
 
 
 
