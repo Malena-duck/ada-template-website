@@ -167,6 +167,7 @@ Let's take a look at the different genres that passed the p-test (0.05) (indicat
 | Black-and-white | 12.20                   |   3                    |
 | Comedy      | 11.64                      | 3                      |
 | Romance     | 10.2                       |  1                     |
+
 #### <center> Table 1: Granger causality test for movie genre</center>
 
 
@@ -193,6 +194,7 @@ The following table shows the features that have a correlation with Box Office s
 | Female m.c. height   | yes -0.07        | yes -0.11      |
 | Male m.c. age   | yes 0.07       | yes 0.07      |
 | Female m.c. age   | yes -0.04        | yes -0.08      |
+
 #### <center> Table 2: Pearson correlation coefficient for movie features </center>
 
 From the table above we learn that runtimes has a positive correlation with both the box office and thr IMDb, which explains the sudden increase in runtime we have seen in recent years. It must be working. Male main characters also have a positive correlation with both box office and IMDb as well as height and age! This seems to follow the trends we have seen in the section above. However in the case of female main characters there is a negative correlation! The height and age of female characters also has a negative correlation with box office. It seems that perhaps the vestiges of the patriarchy remain in the movie making industry, where women cannot be old and need to be small and cute.
@@ -210,6 +212,7 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 | Family film   | 0.15                     |         -0.07              |
 | Fantasy       | 0.16                    |        -0.07               |
 | Drama | -0.10                    |        0.33              |
+
 #### <center> Table 3: Pearson correlation coefficient for movie genre </center>
 
 So here you have it movie producers, I hope you were paying attentions! Though drama has been the genre most produced it has a NEGATIVE correlation with the box office, though the ratings are positively correlated on the bright side. If you want to make money, drama might not be the way to go. Instead a good action film might do the trick with the box office, as it has the heighest correlation. Though you might get a fair share of negative reviews on IMDb. The increase in production of action and adventure films the last few years, that we mentioned before seems to concord with the results found in the table above.
