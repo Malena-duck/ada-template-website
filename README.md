@@ -204,16 +204,19 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 
 
 ## <center> Regression </center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to try and guess future box office success for movies, we created a linear regression with the following features: budget, runtime, gender main character, age of main character, height of main character and the 20 most popular genres. Unfortunately the regression was not successful in its prediction.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to try and guess future box office success for movies, we created a linear regression with the following features: budget, runtime, gender main character, age of main character, height of main character and the 20 most popular genres. Unfortunately the regression was not successful in its prediction so we are unable to estimate box office with the use of multiple features and their effect.
 
 
 # <center> Conclusion </center>
-It seems that the success of a film cannot be easily determined through an algorithm. People are unpredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need is:
+It seems that the success of a film cannot be easily determined through an algorithm. People are unpredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need to have:
+- A male main character of height 1.8m and around 40 years old.
+- An adventure film genre
+- A runtime of around 90 minutes
 
-Recipe style information:
 
-
-
+<p align="center">
+  <img src="./assets/img/The_end.jpg" />
+</p>
 
 
 
