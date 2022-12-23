@@ -56,6 +56,7 @@ We can see above drama is the dominating genre in this dataset, followed by come
 # <center> The Production of Movies throughout the Ages </center>
 
 <center> Let's examine some features in films and how they have evolved. </center> 
+&nbsp; 
 ## <center> Runtimes </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We know that at the beginning of the 20th century, in the early days of Cinema, films were short in runtime due to technological limitations. However by the 1920s, technology had advanced enough to accomodate feature-length films. The sky became the limit when it came to runtimes. So what length did directors and producers gravitate towards?
@@ -160,11 +161,14 @@ We can see that the production of adventure, indie and documentary film have the
 How about the main character time series?
 The changes in height and age of the main character for both men and women have a correlation with the changes in the box office, with a lag around 9 years. This means that how the main character varies throughout the years can help forecast box office.
 
+## <center> Causality Analysis for Success </center>
+To see how strongly correlated production features are with success we will be using the Pearson correlation coefficient, which measures the linear correlation between two datasets.
+
 
 
 
 # <center> Conclusion </center>
-It seems that the success of a film cannot be easily determined through an algorithm. People are unpdredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need is:
+It seems that the success of a film cannot be easily determined through an algorithm. People are unpredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need is:
 
 Recipe style information?
 
