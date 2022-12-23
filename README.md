@@ -60,7 +60,7 @@ We can see above drama is the dominating genre in this dataset, followed by come
 
 <div class="flourish-embed" data-src="visualisation/12254161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### <center> Figure 5: Character Archetypes </center>
+#### <center> Figure 4: Character Archetypes </center>
 
 
 
@@ -79,7 +79,7 @@ We can see above drama is the dominating genre in this dataset, followed by come
 <p align="center">
   <img src="./assets/img/Runtime_evolution.png" />
 </p>
-#### <center> Figure 6: Runtime Evolution </center>
+#### <center> Figure 5: Runtime Evolution </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Around the 1915s we can see there was variation in runtime duration with a few ups and downs ocsillating around 60 minutes. As time went on however we can see a steadily increase in film duration until the 1960s where the median duration of films plateaued around 100 minutes and has remained there ever since. Take note that the 25th and 75th quantiles (blue area) also plateaued with the median. 
 
@@ -91,6 +91,7 @@ So nowadays movies have little variation in their runtime, but can we be sure it
 <p align="center">
   <img src="./assets/img/Movie_genres_evolution.png" width = "600" />
 </p>
+#### <center> Figure 6: Movie Genres Evolution </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The popularity of producing black and whites died off as the years went by which is not surprising. We can also see that drama has been the most produced genre each year consistently. At least that was the case until recently! Since 2012 there has been a rise in popularity in other genres such as fantasy, horror, adventure, with thriller and adventure dominating the production. The sudden change in trend from consistently having drama as number one to a range of different genres becoming popular and vastly varying from year to year is quite interesting, this could perhaps be attributed to the shift that Marvel movies brought to the Cinema industry.
 
@@ -103,6 +104,7 @@ Let's first have a look at the proportions of male vs female main characters:
 <p align="center">
   <img src="./assets/img/Gender_proportion_main_characters.png" />
 </p>
+#### <center> Figure 7: Gender Proportions </center>
 
 Men are more often the main character than women, though this was not always the case in the early 1920s as seen in the figure above. We can see that the percentage of male leads has increased over time and then oscillated around a maxima.
 
@@ -115,7 +117,7 @@ Men are more often the main character than women, though this was not always the
   <img src="./assets/img/Female_main_chara.png" width="350"/>
   <img src="./assets/img/Male_main_chara.png" width="350"/>
 </p>
-
+#### <center> Figures 8,9,10,11: Gender Features </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our analysis of who is the main character gave us the following information:
 It seems that for women the main character's height preference has been between 1.6m and 1.72m throughout the years, while for men it seems the interval has decreased with time. From 1.75m to 1.9m before the 1940s to the chosen height being between 1.75m and 1.85m. When it comes to women, we can see that the age rarely exceeds 40 years old. It seems women between the ages of 25 and 30 have usually been the chosen main characters. However, this is not the case for men. Men have a larger, not to mention older, interval between the ages of 30 and 50 years old. Both male and female main characters used to be younger before the 1940s.
@@ -128,7 +130,7 @@ It seems that for women the main character's height preference has been between 
 <p align="center">
   <img src="./assets/img/Budget_inflation.png" />
 </p>
-
+#### <center> Figure 12: Movie Budget </center>
 <img align = "right" src="./assets/img/rocket.jpg" width = "100"/>
 We can see that the budget of films has been steadily rising until recent years when it suddenly skyrocketed! This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year. In recent years, big budget blockbuster movies have become more popular, such as the Marvel movie franchise. This can explain the explosive increase in budget in such a short amount of time.
 
@@ -139,7 +141,7 @@ We can see that the budget of films has been steadily rising until recent years 
 <p align="center">
   <img src="./assets/img/Box_office_inflation.png" />
 </p>
-
+#### <center> Figure 13: Movie Box Office </center>
 We can see that the box office actually had a few peaks in the past, with a very prominent one before the 1920s. We can see a steady period where the budget was higher between the 1960s and 1980s before it decreased again and remain flat until present day. Interestingly enough though the budget has dramatically increase in the last few years, this does not seem to be the case for the box office.
 
 
@@ -165,7 +167,7 @@ Let's take a look at the different genres that passed the p-test (0.05) (indicat
 | Black-and-white | 12.20                   |   3                    |
 | Comedy      | 11.64                      | 3                      |
 | Romance     | 10.2                       |  1                     |
-
+#### <center> Table 1: Granger causality test for movie genre</center>
 
 
 
@@ -191,6 +193,7 @@ The following table shows the features that have a correlation with Box Office s
 | Female m.c. height   | yes -0.07        | yes -0.11      |
 | Male m.c. age   | yes 0.07       | yes 0.07      |
 | Female m.c. age   | yes -0.04        | yes -0.08      |
+#### <center> Table 2: Pearson correlation coefficient for movie features </center>
 
 From the table above we learn that runtimes has a positive correlation with both the box office and thr IMDb, which explains the sudden increase in runtime we have seen in recent years. It must be working. Male main characters also have a positive correlation with both box office and IMDb as well as height and age! This seems to follow the trends we have seen in the section above. However in the case of female main characters there is a negative correlation! The height and age of female characters also has a negative correlation with box office. It seems that perhaps the vestiges of the patriarchy remain in the movie making industry, where women cannot be old and need to be small and cute.
 
@@ -207,6 +210,7 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 | Family film   | 0.15                     |         -0.07              |
 | Fantasy       | 0.16                    |        -0.07               |
 | Drama | -0.10                    |        0.33              |
+#### <center> Table 3: </center>
 
 So here you have it movie producers, I hope you were paying attentions! Though drama has been the genre most produced it has a NEGATIVE correlation with the box office, though the ratings are positively correlated on the bright side. If you want to make money, drama might not be the way to go. Instead a good action film might do the trick with the box office, as it has the heighest correlation. Though you might get a fair share of negative reviews on IMDb. The increase in production of action and adventure films the last few years, that we mentioned before seems to concord with the results found in the table above.
 
