@@ -131,7 +131,14 @@ We can see that the box office actually had a few peaks in the past, with a very
 # <center> Correlating Production/Features and Success </center>
 Can the trends among certain features indicate how the median of the box office is gonna perform? For example, will a sudden increase in the production of Romantic movies indicate an increase in the box office? In order to perform a causality analysis in the time series we have, we will perform a Granger causality test. The Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another. In our case will a certain feature be useful in forecasting budget?
 
-
+| Genre       | Lag         |Correlation Coefficient|
+| :---------: | :---------: |                       |
+| Adventure      | Title       |                       |
+| Indie   | Text        |                       |
+| Documentary      | Title       |                       |
+| Paragraph   | Text        |                       |
+| Header      | Title       |                       |
+| Paragraph   | Text        |                       |
 
 
 
