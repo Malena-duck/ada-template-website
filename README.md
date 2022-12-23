@@ -94,8 +94,8 @@ Men are more often the main character than women, though this was not always the
   <img src="./assets/img/Gender_proportion_main_characters.png" />
 </p>
 <p align="center">
-  <img src="./assets/img/Female_height.png"/>
-  <img src="./assets/img/Male_height.png"/>
+  <img src="./assets/img/Female_height.png" width="250"/>
+  <img src="./assets/img/Male_height.png" width="250"/>
 </p>
 
 <p align="center">
