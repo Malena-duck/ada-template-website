@@ -131,14 +131,28 @@ We can see that the box office actually had a few peaks in the past, with a very
 # <center> Correlating Production/Features and Success </center>
 Can the trends among certain features indicate how the median of the box office is gonna perform? For example, will a sudden increase in the production of Romantic movies indicate an increase in the box office? In order to perform a causality analysis in the time series we have, we will perform a Granger causality test. The Granger causality test is a statistical hypothesis test for determining whether one time series is useful in forecasting another. In our case will a certain feature be useful in forecasting budget?
 
-| Genre       | Lag         |Correlation Coefficient|
-| :---------: | :---------: |                       |
-| Adventure      | Title       |                       |
-| Indie   | Text        |                       |
-| Documentary      | Title       |                       |
-| Paragraph   | Text        |                       |
-| Header      | Title       |                       |
-| Paragraph   | Text        |                       |
+&nbsp;  
+&nbsp;  
+
+Let's take a look at the different genres that passed the p-test (0.05) (indicator of how confident we are in the results):
+
+| Genre       | Correlation Coefficient |   Lag (years) |  
+| :---------: | :---------:             |      :---------:                  |
+| Adventure   | 20.94                      |         9              |
+| Indie       | 20.48                     |        3               |
+| Documentary | 20.23                    |        10               |
+| Thriller    | 19.62                     |      10                 |
+| Fantasy     | 16.98                     |     4                  |
+| Romantic drama | 16.36                  |    8                   |
+| Black-and-white | 12.20                   |   3                    |
+| Comedy      | 11.64                      | 3                      |
+| Romance     | 10.2                       |  1                     |
+
+
+
+
+We can see that the production of adventure, indie and documentary film have the most causality on the box office. Adventure has a 9 year lag on its effect on the box office though it has the most influence. Romance movies
+
 
 
 
