@@ -90,8 +90,8 @@ Let's first have a look at the proportions of male vs female main characters:
 Men are more often the main character than women, though this was not always the case in the early 1920s as seen in the figure above. We can see that the percentage of male leads has increased over time and then oscillated around a maxima.
 
 <p align="center">
-  <img src="./assets/img/Female_height.png" width="300"/>
-  <img src="./assets/img/Male_height.png" width="300"/>
+  <img src="./assets/img/Female_height.png" width="350"/>
+  <img src="./assets/img/Male_height.png" width="350"/>
 </p>
 
 <p align="center">
@@ -108,11 +108,22 @@ It seems that for women the main character's height preference has been between 
 # <center> An Analysis of various features' impact on the Box-office throughout Time  </center>
 
 
+<p align="center">
+  <img src="./assets/img/Box_office_inflation.png" />
+</p>
+
+We can see that 
 
 
+<p align="center">
+  <img src="./assets/img/Budget_inflation.png" />
+</p>
 
+We can see that the budget of films has been steadily rising until recent years where it sky rocketed! This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year.
 
-
+<p align="center">
+  <img src="./assets/img/rocket.jpg" width = "100"/>
+</p>
 
 
 
