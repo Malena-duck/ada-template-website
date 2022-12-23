@@ -165,20 +165,33 @@ The changes in height and age of the main character for both men and women have 
 To see how strongly correlated production features are with success we will be using the Pearson correlation coefficient, which measures the linear correlation between two datasets. For this part we will also be looking at the correlation with IMDb ratings. We have all heard of the public indignations when movies were praised for the excellence while wildly underperforming in the box office. So let's have a look whether these features correlate. 
 
 
-The following table shows the features that have a correlatio with Box Office success and IMDb rating
+The following table shows the features that have a correlatio with Box Office success and/or IMDb rating
 
 
 
-| Feature      | IMDb correlation| Box Office correlation    | 
+| Feature      | IMDb correlation coefficient| Box Office correlation coefficient   | 
 | :---        |    :----:   |          ---: |
 | Runtime      | yes  0.39       | yes 0.26   |
-| Male main character   | Text        | And more      |
+| Male main character (m.c.)   | Text        | And more      |
 | Female main character      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Male m.c. height   | Text        | And more      |
+| Female m.c. height   | Text        | And more      |
+| Male m.c. age   | Text        | And more      |
+| Female m.c. age   | Text        | And more      |
+
+
+We looked for the top 5 genres with the strongest correlation (positive or negative) to box office as well as the coefficient of correlation for Drama since that is the most produced type by directors. Here they are in the following table:
+
+
+| Genre       | Box Office correlation coefficient| IMDb correlation coefficient   |
+| :---------: | :---------:             |      :---------:                  |
+| Adventure   | 0.26                      |         -0.05             |
+| Action       | 0.18                     |        -0.10               |
+| Indie | -0.16                    |        0.09            |
+| Family film   | 0.15                     |         -0.07              |
+| Fantasy       | 0.16                    |        -0.07               |
+| Drama | -0.10                    |        0.33              |
+
 
 
 Runtime 
