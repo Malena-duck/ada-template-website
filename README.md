@@ -104,7 +104,11 @@ Men are more often the main character than women, though this was not always the
 </p>
 
 
-Our analysis of who is the main character gave us the following information:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our analysis of who is the main character gave us the following information:
+It seems that for women the main character's height preference has been between 1.6m and 1.72m throughout the years, while for men it seems the interval has decreased with time. From 1.75m to 1.9m before the 1940s to the chosen height being between 1.75m and 1.85m. When it comes to women, we can see that the age rarely exceeds 40 years old. It seems women between the ages of 25 and 30 have usually been the chosen main characters. However, this is not the case for men. Men have a larger, not to mention older, interval between the ages of 30 and 50 years old. Both male and female main characters used to be younger before the 1940s.
+
+
+
 
 
 
