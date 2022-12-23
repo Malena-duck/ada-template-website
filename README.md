@@ -81,15 +81,29 @@ So nowadays movies have little variation in their runtime, but can we be sure it
 ## <center> Main Character </center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who is the main character? How have they changed through time? 
 &nbsp;
+
+Let's first have a look at the proportions of male vs female main characters:
 <p align="center">
-  <img src="./assets/img/Gender_proportion_main_characters.png" width = "750" />
+  <img src="./assets/img/Gender_proportion_main_characters.png" />
+</p>
+
+Men are more often the main character than women, though this was not always the case in the early 1920s as seen in the figure above. We can see that the percentage of male leads has increased over time and then oscillated around a maxima.
+
+
+<p align="center">
+  <img src="./assets/img/Movie_genres_evolution.png" />
 </p>
 <p align="center">
-  <img src="./assets/img/Movie_genres_evolution.png" width = "750" />
+  <img src="./assets/img/Female_height.png"/>
+  <img src="./assets/img/Male_height.png"/>
 </p>
+
 <p align="center">
-  <img src="./assets/img/Female_male_genre.png" width = "750" />
+  <img src="./assets/img/Female_main_chara.png"/>
+  <img src="./assets/img/Male_main_chara.png"/>
 </p>
+
+
 Our analysis of who is the main character gave us the following information:
 
 
