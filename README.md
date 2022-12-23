@@ -175,16 +175,15 @@ To see how strongly correlated production features are with success we will be u
 The following table shows the features that have a correlatio with Box Office success and/or IMDb rating
 
 
-
 | Feature      | IMDb correlation coefficient| Box Office correlation coefficient   | 
 | :---        |    :----:   |          ---: |
 | Runtime      | yes  0.39       | yes 0.26   |
-| Male main character (m.c.)   | Text        | And more      |
-| Female main character      | Title       | Here's this   |
-| Male m.c. height   | Text        | And more      |
-| Female m.c. height   | Text        | And more      |
-| Male m.c. age   | Text        | And more      |
-| Female m.c. age   | Text        | And more      |
+| Male main character (m.c.)   | yes 0.05        | yes 0.08      |
+| Female main character      | yes -0.06       | yes -0.09   |
+| Male m.c. height   | yes 0.05        | yes 0.07     |
+| Female m.c. height   | yes -0.07        | yes -0.11      |
+| Male m.c. age   | yes 0.07       | yes 0.07      |
+| Female m.c. age   | yes -0.04        | yes -0.08      |
 
 
 We looked for the top 5 genres with the strongest correlation (positive or negative) to box office as well as the coefficient of correlation for Drama since that is the most produced type by directors. Here they are in the following table:
