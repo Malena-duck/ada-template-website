@@ -175,7 +175,7 @@ The changes in height and age of the main character for both men and women have 
 To see how strongly correlated production features are with success we will be using the Pearson correlation coefficient, which measures the linear correlation between two datasets. For this part we will also be looking at the correlation with IMDb ratings. We have all heard of the public indignations when movies were praised for the excellence while wildly underperforming in the box office. So let's have a look whether these features correlate. 
 
 
-The following table shows the features that have a correlatio with Box Office success and/or IMDb rating
+The following table shows the features that have a correlation with Box Office success and/or IMDb rating
 
 
 | Feature      | IMDb correlation coefficient| Box Office correlation coefficient   | 
@@ -187,6 +187,9 @@ The following table shows the features that have a correlatio with Box Office su
 | Female m.c. height   | yes -0.07        | yes -0.11      |
 | Male m.c. age   | yes 0.07       | yes 0.07      |
 | Female m.c. age   | yes -0.04        | yes -0.08      |
+
+From the table above we learn that runtimes has a positive correlation with both the box office and thr IMDb, which explains the sudden increase in runtime we have seen in recent years. It must be working. Male main characters also have a positive correlation with both box office and IMDb as well as height and age! This seems to follow the trends we have seen in the section above. However in the case of female main characters there is a negative correlation! The height and age of female characters also has a negative correlation with box office. It seems that perhaps the vestiges of the patriarchy remain in the movie making industry, where women cannot be old and need to be small and cute.
+
 
 &nbsp;
 We looked for the top 5 genres with the strongest correlation (positive or negative) to box office as well as the coefficient of correlation for Drama since that is the most produced type by directors. Here they are in the following table:
@@ -201,8 +204,11 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 | Fantasy       | 0.16                    |        -0.07               |
 | Drama | -0.10                    |        0.33              |
 
+So here you have it movie producers, I hope you were paying attentions! Though drama has been the genre most produced it has a NEGATIVE correlation with the box office, though the ratings are positively correlated on the bright side. If you want to make money, drama might not be the way to go. Instead a good action film might do the trick with the box office, as it has the heighest correlation. Though you might get a fair share of negative reviews on IMDb.
 
 
+
+&nbsp;
 ## <center> Regression </center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to try and guess future box office success for movies, we created a linear regression with the following features: budget, runtime, gender main character, age of main character, height of main character and the 20 most popular genres. Unfortunately the regression was not successful in its prediction so we are unable to estimate box office with the use of multiple features and their effect.
 
