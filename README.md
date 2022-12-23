@@ -21,6 +21,7 @@ So now let's have a look at our dataset.
 <p align="center">
   <img src="./assets/img/Movie_production_evolution.png" />
 </p>
+### <center> Figure 1: Movie Production Evolution </center>
 
 ### <center> Movie production evolution </center>
 
@@ -207,11 +208,11 @@ We looked for the top 5 genres with the strongest correlation (positive or negat
 So here you have it movie producers, I hope you were paying attentions! Though drama has been the genre most produced it has a NEGATIVE correlation with the box office, though the ratings are positively correlated on the bright side. If you want to make money, drama might not be the way to go. Instead a good action film might do the trick with the box office, as it has the heighest correlation. Though you might get a fair share of negative reviews on IMDb. The increase in production of action and adventure films the last few years, that we mentioned before seems to concord with the results found in the table above.
 
 
-
 &nbsp;
 ## <center> Regression </center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In order to try and guess future box office success for movies, we created a linear regression with the following features: budget, runtime, gender main character, age of main character, height of main character and the 20 most popular genres. Unfortunately the regression was not successful in its prediction so we are unable to estimate box office with the use of multiple features and their effect.
 
+&nbsp;
 
 # <center> Conclusion </center>
 It seems that the success of a film cannot be easily determined through an algorithm. People are unpredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need to have:
