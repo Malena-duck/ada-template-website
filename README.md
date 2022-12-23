@@ -109,24 +109,21 @@ It seems that for women the main character's height preference has been between 
 
 
 <p align="center">
-  <img src="./assets/img/Box_office_inflation.png" />
-</p>
-
-We can see that 
-
-
-<p align="center">
   <img src="./assets/img/Budget_inflation.png" />
 </p>
 
-We can see that the budget of films has been steadily rising until recent years where it sky rocketed! This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year.
+We can see that the budget of films has been steadily rising until recent years when it suddenly skyrocketed! This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year. In recent years, big budget blockbuster movies have become more popular, such as the Marvel movie franchise. This can explain the explosive increase in budget in such a short amount of time.
 
 <p align="center">
   <img src="./assets/img/rocket.jpg" width = "100"/>
 </p>
 
 
+<p align="center">
+  <img src="./assets/img/Box_office_inflation.png" />
+</p>
 
+We can see that the box office actually had a few peaks in the past, with a very prominent one before the 1920s. We can see a steady period where the budget was higher between the 1960s and 1980s before it decreased again and remain flat until present day. Interestingly enough though the budget has dramatically increase in the last few years, this does not seem to be the case for the box office.
 
 
 
