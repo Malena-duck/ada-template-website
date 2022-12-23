@@ -21,7 +21,8 @@ So now let's have a look at our dataset.
 <p align="center">
   <img src="./assets/img/Movie_production_evolution.png" />
 </p>
-### <center> Figure 1: Movie Production Evolution </center>
+
+#### <center> Figure 1: Movie Production Evolution </center>
 
 ### <center> Movie production evolution </center>
 
