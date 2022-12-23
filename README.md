@@ -22,15 +22,15 @@ So now let's have a look at our dataset.
   <img src="./assets/img/Movie_production_evolution.png" />
 </p>
 
+### <center> Movie production evolution </center>
+
 The dataset focuses on movies released before 2015. The increase in movie production in the last 30 years is also consistent with the global trend. With the boom in the number of movies made we have to wonder how the trends have changed throughout the years.
 
 ## <center> What Film Industry Are We Analyzing </center>
 
-<p align="center">
-  <img src="./assets/img/Countries_in_dataset.png" />
-</p>
-
 <div class="flourish-embed flourish-map" data-src="visualisation/12249145"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### <center> Countries in dataset </center>
 
 The movies contained in this dataset are overwhelmingly from the United States, followed by some from India and the U.K. Thus, the trends we find will reflect mainly the production of American movies. 
 
@@ -44,12 +44,19 @@ The movies contained in this dataset are overwhelmingly from the United States, 
 
 ## <center> Distribution of Movie Genres </center>
 
-<p align="center">
-  <img src="./assets/img/genres_in_dataset.png" />
-</p>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12245699"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **And Drama takes the spotlight!!! Shocker!**
 We can see above drama is the dominating genre in this dataset, followed by comedy and romance. Stay tuned to see if a Drama movie is actually the most profitable.
+
+## <center> Character Archetypes in dataset </center>
+
+<div class="flourish-embed" data-src="visualisation/12254161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### <center> Character Archetypes </center>
+
+
+
 
 
 
