@@ -44,7 +44,10 @@ The movies contained in this dataset are overwhelmingly from the United States, 
 
 ## <center> Distribution of Movie Genres </center>
 
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/12245699"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<p align="center">
+  <img src="./assets/img/genres_in_dataset.png" />
+</p>
+
 
 **And Drama takes the spotlight!!! Shocker!**
 We can see above drama is the dominating genre in this dataset, followed by comedy and romance. Stay tuned to see if a Drama movie is actually the most profitable.
