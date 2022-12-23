@@ -167,21 +167,20 @@ To see how strongly correlated production features are with success we will be u
 
 The following table shows the features that have a correlatio with Box Office success and IMDb rating
 
-| Genre       | Correlation Coefficient |   Lag (years) |  
-| :---------: | :---------:             |      :---------:                  |
-| Adventure   | 20.94                      |         9              |
-| Indie       | 20.48                     |        3               |
-| Documentary | 20.23                    |        10               |
-| Thriller    | 19.62                     |      10                 |
-| Fantasy     | 16.98                     |     4                  |
-| Romantic drama | 16.36                  |    8                   |
-| Black-and-white | 12.20                   |   3                    |
-| Comedy      | 11.64                      | 3                      |
-| Romance     | 10.2                       |  1                     |
 
 
+| Feature      | IMDb correlation| Box Office correlation    | 
+| :---        |    :----:   |          ---: |
+| Runtime      | yes  0.39       | yes 0.26   |
+| Male main character   | Text        | And more      |
+| Female main character      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
-The following features have a correlation with box office success and IMDb rating
+
 Runtime 
 Being male (positive vs negative for being female)
 The age (good if men are older, bad for women in the ratings)
