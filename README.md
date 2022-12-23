@@ -30,6 +30,8 @@ The dataset focuses on movies released before 2015. The increase in movie produc
   <img src="./assets/img/Countries_in_dataset.png" />
 </p>
 
+<div class="flourish-embed flourish-map" data-src="visualisation/12249145"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 The movies contained in this dataset are overwhelmingly from the United States, followed by some from India and the U.K. Thus, the trends we find will reflect mainly the production of American movies. 
 
 **<center> So big Hollywood producers, make sure you pay extra close attention. </center>**
@@ -113,7 +115,7 @@ It seems that for women the main character's height preference has been between 
 </p>
 
 <img align = "right" src="./assets/img/rocket.jpg" width = "100"/>
-We can see that the budget of films has been steadily rising until recent years when it suddenly skyrocketed!:rocket: This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year. In recent years, big budget blockbuster movies have become more popular, such as the Marvel movie franchise. This can explain the explosive increase in budget in such a short amount of time.
+We can see that the budget of films has been steadily rising until recent years when it suddenly skyrocketed! This sudden change also matches the timeline for when Drama was dethroned from its number 1 spot as most produced genre each year. In recent years, big budget blockbuster movies have become more popular, such as the Marvel movie franchise. This can explain the explosive increase in budget in such a short amount of time.
 
 
 
@@ -124,6 +126,20 @@ We can see that the budget of films has been steadily rising until recent years 
 </p>
 
 We can see that the box office actually had a few peaks in the past, with a very prominent one before the 1920s. We can see a steady period where the budget was higher between the 1960s and 1980s before it decreased again and remain flat until present day. Interestingly enough though the budget has dramatically increase in the last few years, this does not seem to be the case for the box office.
+
+
+
+
+
+# <center> Conclusion </center>
+It seems that the success of a film cannot be easily determined through an algorithm. People are unpdredictable and so are movies. It is hard to tell what will speak to the public and entice their hearts. Isn't that part of the beauty though? That writers and directors will have to keep innovating because there is no magic formula? We can however try to have luck on our side sometimes hahaha. It might not guarantee success but it sure does make it more attainable. For that all you will need is:
+
+Recipe style information?
+
+
+
+
+
 
 
 
