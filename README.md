@@ -89,18 +89,14 @@ Let's first have a look at the proportions of male vs female main characters:
 
 Men are more often the main character than women, though this was not always the case in the early 1920s as seen in the figure above. We can see that the percentage of male leads has increased over time and then oscillated around a maxima.
 
-
 <p align="center">
-  <img src="./assets/img/Gender_proportion_main_characters.png" />
-</p>
-<p align="center">
-  <img src="./assets/img/Female_height.png" width="250"/>
-  <img src="./assets/img/Male_height.png" width="250"/>
+  <img src="./assets/img/Female_height.png" width="300"/>
+  <img src="./assets/img/Male_height.png" width="300"/>
 </p>
 
 <p align="center">
-  <img src="./assets/img/Female_main_chara.png"/>
-  <img src="./assets/img/Male_main_chara.png"/>
+  <img src="./assets/img/Female_main_chara.png" width="350"/>
+  <img src="./assets/img/Male_main_chara.png" width="350"/>
 </p>
 
 
@@ -110,6 +106,10 @@ It seems that for women the main character's height preference has been between 
 
 
 # <center> An Analysis of various features' impact on the Box-office throughout Time  </center>
+
+
+
+
 
 
 
